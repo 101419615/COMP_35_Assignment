@@ -2,3 +2,6 @@ COMP 2156 is an advanced course in DevOps offered at George Brown College. It co
 The COMP 2156 DevOps course offers students a comprehensive understanding of modern DevOps practices, including continuous integration, deployment, and delivery. In this file, we'll delve into the course curriculum, learning objectives, and the practical applications of DevOps in today's software industry.
 As part of the COMP 2156 DevOps course, students will gain hands-on experience with a variety of DevOps tools and technologies, including Git, Jenkins, Docker, and Kubernetes. In this section, we'll discuss the role of these tools in automating the software delivery pipeline and ensuring efficient collaboration between development and operations teams.
 
+
+Jenkins is a popular automation server used for building, testing, and deploying software projects. In this example, we'll create a simple Jenkins pipeline that automates the build and deployment process for a web application, demonstrating how Jenkins streamlines the software delivery pipeline in a DevOps environment.
+
