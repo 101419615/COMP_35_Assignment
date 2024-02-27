@@ -1,0 +1,2 @@
+COMP 2156 is an advanced course in DevOps offered at George Brown College. It covers various topics such as continuous integration, continuous deployment, containerization, and infrastructure as code.
+
