@@ -1,5 +1,5 @@
 Importance of DevOps in Software Development Lifecycle
-DevOps plays a crucial role in the software development lifecycle by bridging the gap between development and operations teams. It facilitates faster development cycles, improves collaboration, and ensures smoother deployment and delivery of software products.In this file, we'll explore the significance of integrating DevOps practices into the SDLC and the benefits it brings to the development process.
+DevOps plays a crucial role in the software development lifecycle by bridging the gap between development and operations teams. It facilitates the faster development cycles, improves collaboration, and ensures smoother deployment and delivery of software products.In this file, we'll explore the significance of integrating DevOps practices into the SDLC and the benefits it brings to the development process.
 In this file, we'll explore the significance of integrating DevOps practices into the SDLC and the benefits it brings to the development process.
 
 
